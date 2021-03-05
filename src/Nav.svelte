@@ -9,7 +9,7 @@
   }
 
   nav {
-    background: #fdebc9;
+    background: #d83030;
     padding: 8px;
     position: -webkit-sticky; /* Safari */
     position: sticky;
@@ -26,7 +26,7 @@
   }
 
   .menu li:hover {
-    text-shadow: 3px 3px 4px #6f6f70;
+    text-shadow: 4px 4px 5px #6f6f70;
   }
 
   .menu li {

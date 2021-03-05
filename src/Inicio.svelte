@@ -24,7 +24,7 @@
     border: 1px solid #000;
     border-radius: 4px;
     box-shadow: 0 0 3px rgba(0, 0, 0, 0.19);
-    border: 1px solid rgb(245, 177, 31);
+    border: 1px solid rgb(212, 16, 16);
     border-radius: 4px;
   }
 
@@ -38,7 +38,7 @@
     font-family: sans-serif;
     color: #3b4151;
     border-radius: 4px;
-    background: #fdebc9;
+    background: #b3291f;
     min-width: 140px;
     padding: 10px;
   }
@@ -63,12 +63,12 @@
 <p>
   <small>
     Backend en
-    <a href="https://tiendabackend.herokuapp.com">
-      https://tiendabackend.herokuapp.com
+    <a href="https://backend-aaguilar.herokuapp.com/">
+      https://backend-aaguilar.herokuapp.com/
     </a>
   </small>
 </p>
-<p>Esta SPA (Single Page Application) ofrece 3 opciones:</p>
+<p>Esta SPA ofrece 3 opciones:</p>
 
 <div class="bloque">
   <Link to="/">
@@ -101,8 +101,8 @@
   <small>
     <b>
       Código fuente en
-      <a href="https://github.com/jamj2000/tiendafrontend">
-        https://github.com/jamj2000/tiendafrontend
+      <a href="https://github.com/antonio-aguilar/tiendafrontend">
+        https://github.com/antonio-aguilar/tiendafrontend
       </a>
     </b>
   </small>
